@@ -1,0 +1,57 @@
+adjustable:регулируемый
+ancestor:предшественник
+as well as:так же как
+bring within reach:принести в пределах досягаемости
+deliver:дсотавить
+efficiency:эффективность
+ensure:гарантировать
+envisage:предусмотреть
+exert pressure:оказывать давление
+failure:неудача
+incredibly:невероятно
+luggage:багаж
+maintain smth:обслуживать что-то
+board a ship/plane:сесть на корабль/самолет
+capable of:способен на
+challenging environments:сложные условия
+convey:передавать
+escape:сбежать
+facility:объект
+rather than doing smth:вместо того, чтобы делать что-то
+rescue:спасать
+see the light of the day:увидеть дневной свет
+surface:поверхность
+underneath:под
+unqualified success:безусловный успех
+vessel:судно
+make a reality:воплотить
+manage to do smth:суметь сделать что-то
+marine:морской
+milestone:веха
+opposite:противоположные
+perspective:перспектива?
+propeller:винт
+receive a boost:получит заряд
+reduce:уменьшить
+reflect:отражать
+rotate:поворачивать
+support:поддерживать
+take inspiration:вдохновляться
+target:цель
+upward:вверх
+workload:нагрузка
+accommodate:приспособить
+be in service:быть в эксплуатации
+descend:спускаться
+gear:механизм
+long-haul:долгий
+propulsion:тяга
+retire:уйти в отставку
+spectacular:впечатляющий
+striking:поразительный
+suitable for:подходящий для
+supersonic:сверхзвуковой
+thrust:тяга
+viable:жизнеспособный
+wing:крыло
+withdraw:снять

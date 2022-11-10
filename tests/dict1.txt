@@ -1,0 +1,55 @@
+accessible:доступный
+affect:влиять
+afford:позволить
+affordable:доступный
+assign:назначить
+comfortable:комфортный
+competitive:конкурентный
+contribute:способствовать
+convenient:удобный
+currently:сейчас
+dominate:доминировать
+eco-friendly:экологичный
+essential:необходимый
+eventually:в итоге
+gain fame:приобрести популярность
+goods:товары
+hybrid:гибридный
+increase:увеличивать
+increasingly:усиленно
+influence:влиять
+keep up:поспевать
+make an impact on:оказать влияние
+make room for something:освободить место
+method/mode of transportation:средство передвижения
+open up doors to something:открыться
+push aside:вытеснуть
+vehicle:машина
+altogether:в целом
+be concerned:переживать
+be on the rise:быть на подъеме
+charge a car:зарядить машину
+complain about:жаловаться
+consider:считать
+consistent:последовательный
+consumer:потребитель
+distant possibility:отдаленная возможность
+fill up a car:заправить машину
+fuel powered car:машина на топливе
+furthermore:более того
+maintenance:обслуживание
+petrol:бензин
+submit:утверждать
+be underway:вестись
+bus lane:автобусная полоса
+carpooling:прокат машин
+commonplace:банальность
+congestion:пробка
+connectivity:связь
+demographic:демографический
+dramatically:драматично
+face a problem:столкнуться с проблемой
+far-fetched:надуманный
+pedestrian:пешеход
+route:путь
+sustainable:устойчивый
